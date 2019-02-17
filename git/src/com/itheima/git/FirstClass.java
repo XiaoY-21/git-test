@@ -7,4 +7,8 @@ public class FirstClass {
         System.out.println("6666666666");
         System.out.println("6666666666");
     }
+    public void test(){
+        int i =0;
+        i += 10;
+    }
 }
